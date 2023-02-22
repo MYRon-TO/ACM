@@ -1,25 +1,28 @@
-#include<stdio.h>
+#include <stdio.h>
+#include "List.h"
 
-typedef struct node{
-    int i;
-    struct node* link;
-}node;
+inline void debug(const char* STRING);
 
 int main(){
-    
-    return 0;
+    int n;
+    int k;
+    scanf("%d %d",&n,&k);
+    while(n!=-1&&k!=-1){
+        debug("Now Loop");
+
+        Node* Board= (Node*)malloc(sizeof(Node));
+        Board->link=NULL;
+
+        for(int i=0;i<n;i++){
+           for(int j=0;j<n;j++){
+           }
+        }
+
+        scanf("%d %d",&n,&k);
+    }
+return 0;
 }
 
-//////////////////////////
-//Function For Node List//
-//////////////////////////
-void List_push(int i){
-    node* p=new node;
-    p.i=i;
-}
-
-node* function(){
-    node* Result=NULL;
-    
-    return Result;
+inline void debug(const char* STRING){
+    printf("\n%s\n",STRING);
 }

@@ -1,0 +1,5 @@
+﻿  1049.cpp
+D:\EXPERIMENT\10XX\1049\1049.cpp(42,10): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\EXPERIMENT\10XX\1049\1049.cpp(57,20): warning C4804: “<”: 在操作中使用类型“bool”不安全
+D:\EXPERIMENT\10XX\1049\1049.cpp(71,22): warning C4804: “<”: 在操作中使用类型“bool”不安全
+  1049.vcxproj -> D:\EXPERIMENT\10XX\1049\x64\Debug\1049.exe

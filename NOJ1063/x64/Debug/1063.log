@@ -1,0 +1,3 @@
+﻿  1063.cpp
+D:\EXPERIMENT\10XX\1063\1063.cpp(35,21): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  1063.vcxproj -> D:\EXPERIMENT\10XX\1063\x64\Debug\1063.exe

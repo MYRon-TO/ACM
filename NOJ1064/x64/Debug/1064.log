@@ -1,0 +1,3 @@
+﻿  1064.cpp
+D:\EXPERIMENT\10XX\1064\1064.cpp(17,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  1064.vcxproj -> D:\EXPERIMENT\10XX\1064\x64\Debug\1064.exe

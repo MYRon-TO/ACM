@@ -8,5 +8,10 @@
     - NOIOPJCH010108
     - NOIOPJCH010110
 # UnFinished
+    - NOJ1006
+    - NOJ1022
+    - POJ1321
 # Wrong/Error
-
+    - NOJ1005
+    - NOJ1021
+    - NOJ1052
